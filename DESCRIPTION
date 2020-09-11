@@ -1,0 +1,10 @@
+Package: paleotools
+Type: Package
+Title: Assortment of statistical tools for paleontologists
+Version: 1.0
+Date: 2020-09-11
+Author: Nicolas E. Campione
+Maintainer: Nicolas E. Campione <ncampion@une.edu.au>
+Depends: R (>= 2.10.0), smatr
+Description: An assemblage of functions (statistical or graphical) useful for quantitative studies in paleontology
+License: GPL (>= 2)
